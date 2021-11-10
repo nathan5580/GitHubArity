@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubArity5", "GitHubArity5\GitHubArity5.csproj", "{F0C62A4D-1418-44C1-AE23-214121743DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubArity6", "..\WebApplicationT\GitHubArity6\GitHubArity6.csproj", "{CECE2550-0B7A-4A68-B3F9-235DA36BAAD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubArity6", "GitHubArity6\GitHubArity6.csproj", "{3E9D2235-543B-40DC-895C-E9E55C8383BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{F0C62A4D-1418-44C1-AE23-214121743DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0C62A4D-1418-44C1-AE23-214121743DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0C62A4D-1418-44C1-AE23-214121743DFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CECE2550-0B7A-4A68-B3F9-235DA36BAAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CECE2550-0B7A-4A68-B3F9-235DA36BAAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CECE2550-0B7A-4A68-B3F9-235DA36BAAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CECE2550-0B7A-4A68-B3F9-235DA36BAAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9D2235-543B-40DC-895C-E9E55C8383BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9D2235-543B-40DC-895C-E9E55C8383BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9D2235-543B-40DC-895C-E9E55C8383BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9D2235-543B-40DC-895C-E9E55C8383BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
